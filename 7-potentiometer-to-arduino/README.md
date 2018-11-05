@@ -1,5 +1,9 @@
 # Potentiometer to Arduino
 
+## Montage
+
+![](arduino.jpg)
+
 ## Code
 
 ```java
