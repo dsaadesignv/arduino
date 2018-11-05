@@ -4,6 +4,8 @@
 
 ![](schema-arduino-button.png)
 
+![](schema-arduino-button-mini.png)
+
 ## Code
 
 ```java
