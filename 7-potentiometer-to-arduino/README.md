@@ -26,6 +26,8 @@ int ledPin = 13;   // select the pin for the LED
 int val = 0;       // variable to store the value coming from the sensor
 
 void setup() {
+	Serial.begin(9600);
+
   pinMode(ledPin, OUTPUT);  // declare the ledPin as an OUTPUT
 }
 
