@@ -14,6 +14,7 @@ En quelques mots, [Arduino](https://fr.wikipedia.org/wiki/Arduino) est une plate
 [**Télécharger l'IDE Arduino**](https://www.arduino.cc/en/Main/Software)
 
 
+
 ## Prendre en main Arduino
 - [**1 — Récupérer la valeur d'un bouton**](1-get-digital-value-of-button)
 - [**2 — Récupérer la valeur d'un capteur de lumière**](2-get-analog-value-of-light-sensor)
@@ -21,6 +22,6 @@ En quelques mots, [Arduino](https://fr.wikipedia.org/wiki/Arduino) est une plate
 - [**4 — Allumer ou éteindre une LED avec un bouton**](4-switch-led-with-button)
 
 
-**Aller plus loin**
+**Aller plus loin :**
 
 - [Comprendre la différence entre analogique et digital](https://blog.robotiq.com/whats-the-difference-between-digital-and-analog-i/o)
