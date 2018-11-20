@@ -1,4 +1,4 @@
-# Potentiometer to Arduino
+# Potentiometer to Processing
 
 ## Montage
 
